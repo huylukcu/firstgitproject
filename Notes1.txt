@@ -1,2 +1,2 @@
 This is my first GitHub Class
-This is my second commit
+I just add my second commit
